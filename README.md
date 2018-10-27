@@ -1,1 +1,1 @@
-# Python_subgroup_KNMF
+# Python subgroup of KNMF Data Rangers Group
